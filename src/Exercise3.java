@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
-public class Excercise3 {
+public class Exercise3 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
